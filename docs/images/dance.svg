@@ -118,14 +118,15 @@
                 }
 
                 .error__title {
-                    font-size: 10em;
+                    font-size: 0.5em;
                 }
 
                 .error__subtitle {
-                    font-size: 2em;
+                    font-size: 1.2em;
                 }
 
                 .error__description {
+                    font-size: 0.9em;
                     opacity: 0.5;
                 }
 
@@ -424,9 +425,9 @@
             <div class="star star5"></div>
 
             <div class="error">
-                <div class="error__title">Jack...</div>
-                <div class="error__subtitle">Hmmm...</div>
-                <div class="error__description">It looks like one of the developers fell asleep</div>
+                <div class="error__subtitle">“The way to succeed is to double your failure rate.”</div>
+                <div class="error__description">Thomas J. Watson</div>
+                <div class="error__title">________________</div>
             </div>
 
             <div class="astronaut">

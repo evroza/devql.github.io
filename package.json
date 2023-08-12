@@ -1,12 +1,12 @@
 {
-  "name": "jackbereson",
+  "name": "evans_r",
   "version": "1.0.2",
-  "description": "jackbereson.github.io",
-  "author": "jackbereson",
+  "description": "www.devql.com",
+  "author": "evans_r",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackbereson/jackbereson.github.io"
+    "url": "https://github.com/evroza/devql.github.io"
   },
   "scripts": {
     "clean": "rimraf docs/*",
